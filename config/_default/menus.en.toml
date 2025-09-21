@@ -1,0 +1,49 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Packrinth"
+  url = "https://packrinth.thijzert.nl"
+  weight = 10
+
+[[main]]
+  name = "homewizard4j"
+  url = "https://homewizard4j.thijzert.nl"
+  weight = 20
+
+[[main]]
+  name = "Minecraft Projects"
+  pageRef = "minecraft-projects"
+  weight = 30
+
+[[main]]
+  name = "Other Projects"
+  pageRef = "other-projects"
+  weight = 40
+
+[[main]]
+  identifier = "rust"
+  pre = "rust"
+  url = "https://crates.io/users/Thijzert123"
+  weight = 50
+
+[[main]]
+  identifier = "modrinth"
+  pre = "modrinth"
+  url = "https://modrinth.com/user/Thijzert"
+  weight = 60
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Thijzert123"
+  weight = 70

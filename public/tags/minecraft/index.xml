@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minecraft on Thijzert</title>
+    <link>http://localhost:42987/tags/minecraft/</link>
+    <description>Recent content in Minecraft on Thijzert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="http://localhost:42987/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Client&#43;</title>
+      <link>http://localhost:42987/minecraft-projects/client-plus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:42987/minecraft-projects/client-plus/</guid>
+      <description>A Minecraft modpack focused on improving vanilla Minecraft on the client-side. This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your FPS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42987/minecraft-projects/client-plus/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Thijzert"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  logo = "img/logo.png"
+  description = "Thijzert's Homepage"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Thijzert"
+  image = "img/avatar.png"
+  headline = "_tice-zert_"
+  links = [
+    { github = "https://github.com/Thijzert123" },
+    { modrinth = "https://modrinth.com/user/Thijzert" },
+    { rust = "https://crates.io/users/Thijzert123" }
+  ]
