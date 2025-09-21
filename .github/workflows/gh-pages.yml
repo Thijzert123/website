@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Blowfis Deploy
+name: Blowfish Deploy
 
 on:
   # Runs on pushes targeting the default branch
@@ -55,7 +55,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo -d ./public --baseURL https://thijzert123.github.io/website/
+          hugo -d ./public --baseURL https://www.thijzert.nl/
     
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -66,7 +66,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://thijzert123.github.io/website/
+      url: https://www.thijzert.nl/
     runs-on: ubuntu-latest
     needs: build
     steps:
