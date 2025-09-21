@@ -4,7 +4,7 @@ summary: "A Minecraft modpack focused on improving vanilla Minecraft on the clie
 tags: ["minecraft","packrinth","python"]
 ---
 
-| [Homepage](https://modrinth.com/modpack/client-plus, | [Download latest](https://modrinth.com/modpack/client-plus/version/latest) | [Repository](https://github.com/Thijzert123/client-plus) | [Issue tracker](https://github.com/Thijzert123/client-plus/issues) |
+| [Homepage](https://modrinth.com/modpack/client-plus) | [Download latest](https://modrinth.com/modpack/client-plus/version/latest) | [Repository](https://github.com/Thijzert123/client-plus) | [Issue tracker](https://github.com/Thijzert123/client-plus/issues) |
 |---|---|---|---|
 
 Client+ is a Minecraft modpack focused on improving vanilla Minecraft on the client-side. This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your FPS. These mods include Sodium, Immediately Fast, Lithium and Ferrite Core.
