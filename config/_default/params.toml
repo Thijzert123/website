@@ -11,6 +11,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+smartTOC = true
 
 mainSections = ["main-projects", "minecraft-projects", "other-projects"]
 
@@ -57,6 +58,7 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
+  showRelatedContent = true
 
 [list]
   showHero = true
@@ -69,6 +71,7 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
+  showTableOfContents = true
 
 [sitemap]
   excludedKinds = []
