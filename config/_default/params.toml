@@ -36,8 +36,6 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
 
 [article]
   showDate = false
-  #showViews = true
-  #showLikes = true
   showDateUpdated = false
   showAuthor = false
   showHero = true
@@ -56,7 +54,6 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
-  showRelatedContent = true
 
 [list]
   showHero = true
