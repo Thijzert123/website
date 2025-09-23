@@ -11,6 +11,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+smartTOC = true
 
 mainSections = ["main-projects", "minecraft-projects", "other-projects"]
 
