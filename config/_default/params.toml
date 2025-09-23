@@ -11,7 +11,6 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
-smartTOC = true
 
 mainSections = ["main-projects", "minecraft-projects", "other-projects"]
 
@@ -66,7 +65,7 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = true
-  showTableOfContents = true###################
+  showTableOfContents = false###################
   showCards = false
   groupByYear = false
   cardView = false
