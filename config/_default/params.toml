@@ -30,7 +30,7 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   showRecent = true
   showRecentItems = 9999
   showMoreLink = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
