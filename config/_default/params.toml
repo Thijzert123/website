@@ -57,7 +57,7 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
-  showRelatedContent = true
+  #showRelatedContent = true
 
 [list]
   showHero = true
@@ -65,7 +65,7 @@ mainSections = ["main-projects", "minecraft-projects", "other-projects"]
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = true
-  showTableOfContents = true
+  showTableOfContents = false###################
   showCards = false
   groupByYear = false
   cardView = false
