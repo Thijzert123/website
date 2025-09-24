@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["main-projects", "minecraft-projects", "other-projects"]
+mainSections = ["minecraft-projects", "other-projects"]
 
 [header]
   layout = "fixed" # valid options: basic, fixed
