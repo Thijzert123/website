@@ -1,7 +1,7 @@
 ---
 title: "Client+"
 summary: "A Minecraft modpack focused on improving vanilla Minecraft on the client-side. This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your FPS."
-tags: ["minecraft","plus","packrinth","python"]
+tags: ["minecraft","modpack","plus","packrinth","python"]
 date: 1998-01-01
 ---
 

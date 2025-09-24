@@ -1,7 +1,7 @@
 ---
 title: "Server+"
 summary: "A Minecraft modpack focused on improving vanilla Minecraft on the server-side. This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about server tick time."
-tags: ["minecraft","plus","packrinth","python"]
+tags: ["minecraft","modpack","plus","packrinth","python"]
 date: 1997-01-01
 ---
 
