@@ -2,7 +2,7 @@
 title: "Server+"
 summary: "A Minecraft modpack focused on improving vanilla Minecraft on the server-side. This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about server tick time."
 tags: ["minecraft","plus","packrinth","python"]
-date: 2003-01-01
+date: 996-01-01
 ---
 
 | [Homepage](https://modrinth.com/modpack/server-plus) | [Download latest](https://modrinth.com/modpack/server-plus/version/latest) | [Repository](https://github.com/Thijzert123/server-plus) | [Issue tracker](https://github.com/Thijzert123/server-plus/issues) |
