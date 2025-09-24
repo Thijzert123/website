@@ -5,3 +5,5 @@ tags: ["packrinth","rust"]
 externalUrl: "https://packrinth.thijzert.nl"
 date: 2000-01-01
 ---
+
+### Visit the homepage at [packrinth.thijzert.nl](https://packrinth.thijzert.nl)
