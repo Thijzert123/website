@@ -1,5 +1,5 @@
 ---
-title: "Client+"
+title: "Thijzert's Exploration Pack"
 summary: "This Minecraft modpack allows you to explore Minecraft in a different way and adds quality of life improvements, while keeping the vanilla aspect we all know and love."
 tags: ["minecraft","modpack"]
 date: 1992-01-01
