@@ -15,7 +15,7 @@ buildFuture = false
 
 enableEmoji = true
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-CF0RZF4CKT"
 
 [sitemap]
   changefreq = 'daily'
