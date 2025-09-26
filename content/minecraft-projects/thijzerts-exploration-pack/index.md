@@ -10,7 +10,7 @@ date: 1992-01-01
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/fa79f0a31666b849833e2222a19591fdccb6fb86.png)
 
-### This modpack allows you to explore Minecraft in a different way and adds quality of life improvements, while keeping the vanilla aspect we all know and love
+__This modpack allows you to explore Minecraft in a different way and adds quality of life improvements, while keeping the vanilla aspect we all know and love__
 
 ## Explore a new Minecraft you have never seen before!
 This Minecraft modpack is mainly focused on the exploration aspect of Minecraft. It aims to improve rewards for wandering around and finding new structures. Key mods that take part in this field:
