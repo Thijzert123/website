@@ -2,7 +2,7 @@
 title: "ZuiderSchemer Pack"
 summary: "Minecraft performance modpack that adds essential client-side tweaks optimized for multiplayer"
 tags: ["minecraft","modpack","plus","python"]
-date: 1991-01-01
+weight: 10
 ---
 
 | [Homepage](https://modrinth.com/modpack/zuiderschemer) | [Download latest](https://modrinth.com/modpack/zuiderschemer/version/latest) | [Repository](https://github.com/Thijzert123/zuiderschemer-modpack) | [Issue tracker](https://github.com/Thijzert123/zuiderschemer-modpack/issues) |

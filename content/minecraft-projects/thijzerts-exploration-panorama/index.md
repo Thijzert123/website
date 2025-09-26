@@ -2,7 +2,7 @@
 title: "Thijzert's Exploration Panorama"
 summary: "Minecraft resource pack that changes the panorama on the main menu to be a panorama of Thijzert's Exploration Pack."
 tags: ["minecraft","resourcepack"]
-date: 1993-01-01
+weight: 8
 ---
 
 | [Homepage](https://modrinth.com/resourcepack/thijzerts-exploration-panorama) | [Download latest](https://modrinth.com/resourcepack/thijzerts-exploration-panorama/version/latest) |

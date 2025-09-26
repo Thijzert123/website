@@ -70,6 +70,7 @@ mainSections = ["minecraft-projects", "other-projects"]
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
+  orderByWeight = true
 
 [sitemap]
   excludedKinds = []
