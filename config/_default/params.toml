@@ -64,7 +64,7 @@ mainSections = ["minecraft-projects", "other-projects"]
   showSummary = true
   showZenMode = true
   showRelatedContent = true
-  relatedContentLimit = 9
+  relatedContentLimit = 3
 
 [list]
   showHero = true
