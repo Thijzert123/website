@@ -8,6 +8,8 @@
 colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
+disableImageOptimization = false
+defaultBackgroundImage = "img/cover.png"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -59,6 +61,7 @@ mainSections = ["minecraft-projects", "other-projects"]
   showWordCount = false
   showSummary = true
   showZenMode = true
+  showRelatedContent = true
 
 [list]
   showHero = true
