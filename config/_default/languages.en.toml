@@ -9,7 +9,7 @@ title = "Thijzert"
   rtl = false
   logo = "img/logo.png"
   description = "Thijzert's Homepage"
-  copyright = "{ year } Thijzert"
+  copyright = "© { year } Thijzert"
   dateFormat = "2 January 2006"
 
 [params.author]

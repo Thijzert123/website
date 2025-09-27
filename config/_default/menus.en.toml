@@ -47,3 +47,8 @@
   pre = "github"
   url = "https://github.com/Thijzert123"
   weight = 70
+
+[[footer]]
+  name = "Topics"
+  pageRef = "topics"
+  weight = 10
