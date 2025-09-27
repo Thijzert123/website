@@ -73,7 +73,7 @@ mainSections = ["minecraft-projects", "other-projects"]
   orderByWeight = true
 
 [sitemap]
-  excludedKinds = []
+  excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
   showTermCount = true
