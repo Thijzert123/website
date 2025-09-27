@@ -6,7 +6,7 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "ocean"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 highlightCurrentMenuArea = true
@@ -14,7 +14,7 @@ smartTOC = true
 
 enableSearch = true
 enableCodeCopy = true
-enableA11y = true
+enableA11y = false
 
 mainSections = ["minecraft-projects", "other-projects"]
 
@@ -58,6 +58,7 @@ mainSections = ["minecraft-projects", "other-projects"]
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
+  showZenMode = true
 
 [list]
   showHero = true
