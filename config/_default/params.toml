@@ -22,8 +22,8 @@ mainSections = ["minecraft-projects", "other-projects"]
   layout = "fixed" # valid options: basic, fixed
 
 [footer]
-  showMenu = false
-  showCopyright = false
+  showMenu = true
+  showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
