@@ -45,4 +45,4 @@ toLower = false
     applyFilter = false
     name = 'fragmentrefs'
     type = 'fragments'
-    weight = 10000
+    weight = 50
