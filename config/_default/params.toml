@@ -77,9 +77,6 @@ mainSections = ["minecraft-projects", "other-projects"]
 
 [taxonomy]
   showTermCount = true
-  showHero = true
-  heroStyle = "background"
-  topic = "topics"
 
 [firebase]
   # apiKey = "XXXXXX"
