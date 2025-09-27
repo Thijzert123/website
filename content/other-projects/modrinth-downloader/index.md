@@ -1,7 +1,7 @@
 ---
 title: "Modrinth downloader"
 summary: "Application to easily download mods, resource packs, data packs, shaders and plugins from Modrinth."
-tags: ["modrinth","minecraft","python"]
+topics: ["modrinth","minecraft","python"]
 weight: 12
 ---
 

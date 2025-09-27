@@ -1,7 +1,7 @@
 ---
 title: "ClearDespawn Reworked"
 summary: "A minecraft mod that lets you know when items are about to despawn. This way, you can pick them up before it is too late."
-tags: ["minecraft","mod","fabric","java"]
+topics: ["minecraft","mod","fabric","java"]
 weight: 5
 ---
 

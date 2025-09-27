@@ -1,7 +1,7 @@
 ---
 title: "ZuiderSchemer Pack"
 summary: "Minecraft performance modpack that adds essential client-side tweaks optimized for multiplayer"
-tags: ["minecraft","modpack","plus","python"]
+topics: ["minecraft","modpack","plus","python"]
 weight: 10
 ---
 

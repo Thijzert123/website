@@ -1,7 +1,7 @@
 ---
 title: "Thijzert's Exploration Panorama"
 summary: "Minecraft resource pack that changes the panorama on the main menu to be a panorama of Thijzert's Exploration Pack."
-tags: ["minecraft","resourcepack"]
+topics: ["minecraft","resourcepack"]
 weight: 8
 ---
 

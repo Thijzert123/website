@@ -1,7 +1,7 @@
 ---
 title: "DJI Neo media importer"
 summary: "Script to easily import media from a DJI Neo drone."
-tags: ["media","drone","python"]
+topics: ["media","drone","python"]
 weight: 11
 ---
 

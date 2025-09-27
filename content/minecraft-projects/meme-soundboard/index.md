@@ -1,7 +1,7 @@
 ---
 title: "Meme Soundboard"
 summary: "A Minecraft resource pack that adds some sounds to the Voice Chat Soundboard mod, a mod that allows you to play sounds via Simple Voice Chat."
-tags: ["minecraft","resourcepack"]
+topics: ["minecraft","resourcepack"]
 weight: 7
 ---
 

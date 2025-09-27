@@ -1,7 +1,7 @@
 ---
 title: "Default Splashes"
 summary: "A resourcepack for Minecraft that changes the splash text (next to the Minecraft logo on the main menu) to be like the default Minecraft 1.21 splashes. This is because some mods might change it, which some people don't want when making modpack."
-tags: ["minecraft","resourcepack"]
+topics: ["minecraft","resourcepack"]
 weight: 6
 ---
 
