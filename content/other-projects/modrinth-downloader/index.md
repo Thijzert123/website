@@ -8,4 +8,4 @@ weight: 12
 | [Homepage](https://github.com/Thijzert123/modrinth-downloader) | [Download latest](https://github.com/Thijzert123/modrinth-downloader) | [Repository](https://github.com/Thijzert123/modrinth-downloader) | [Issue tracker](https://github.com/Thijzert123/modrinth-downloader/issues) |
 |---|---|---|---|
 
-{{< mdimporter url="https://raw.githubusercontent.com/Thijzert123/modrinth-downloader/refs/heads/main/README.md" >}}
+{{% custom-mdimporter url="https://raw.githubusercontent.com/Thijzert123/modrinth-downloader/refs/heads/main/README.md" %}}
